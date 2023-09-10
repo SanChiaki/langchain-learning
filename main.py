@@ -17,6 +17,8 @@ text = "What would be a good company name for a company that makes colorful sock
 print(llm(text))
 # Feetful of Fun
 
+
+# 
 from langchain.prompts import PromptTemplate
  
 prompt = PromptTemplate(
